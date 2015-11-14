@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447532378 source:/home/blackmantram/Projects/cpp/cypher/Cypher/main.cpp
+	<iostream>
+	<string>
+	<math.h>
+
